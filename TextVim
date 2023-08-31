@@ -1,0 +1,30 @@
+Ici j'ai créé du Text dans un fichier Text et j'utilise Vim en traitement de Texte en ouvrant le fichier en précédent le nom du fichier par Vim :
+Maintenant je vais essayer de mettre se fichier sur Git 
+
+
+Voici la deuxième version du document que je vais maitenant 
+
+1) git add . pour la mettre dans un espace d'index en attente 
+3) git status pour vérif
+3) git commit -m "Deuxième essaie de commit" je vais ensuite la commit avec un message 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
